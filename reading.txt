@@ -1,0 +1,186 @@
+hello
+kem cho
+ketla vagiya 
+kyare avana
+aavajo .
+1)What is File function in python? 
+
+Python file object provides methods and attributes to access and manipulate files.
+Using file objects, we can read or write any files.
+Whenever we open a file to perform any operations on it, Python returns a file object. 
+To create a file object in Python use the built-in functions, such as open() and os. popen() .
+
+
+
+2)What is keywords to create and write file.?
+
+Write Only ('w') : Open the file for writing. For an existing file, the data is truncated and over-written. ...
+Write and Read ('w+') : Open the file for reading and writing. For an existing file, data is truncated and over-written. ...
+Append Only ('a') : Open the file for writing.New Delhi, national capital of India
+It is situated in the north-central part of the country
+ on the west bank of the Yamuna RiverNew Delhi, national capital of India
+New Delhi, national capital of India
+It is situated in the north-central part of the country
+ on the west bank of the Yamuna River1)What is File function in python? 
+
+Python file object provides methods and attributes to access and manipulate files.
+Using file objects, we can read or write any files.
+Whenever we open a file to perform any operations on it, Python returns a file object. 
+To create a file object in Python use the built-in functions, such as open() and os. popen() .
+
+
+
+2)What is keywords to create and write file.?
+
+Write Only ('w') : Open the file for writing. For an existing file, the data is truncated and over-written. ...
+Write and Read ('w+') : Open the file for reading and writing. For an existing file, data is truncated and over-written. ...
+Append Only ('a') : Open the file for writing.New Delhi, national capital of India
+It is situated in the north-central part of the country
+ on the west bank of the Yamuna RiverNew Delhi, national capital of India
+New Delhi, national capital of India
+It is situated in the north-central part of the country
+ on the west bank of the Yamuna River1)What is File function in python? 
+
+Python file object provides methods and attributes to access and manipulate files.
+Using file objects, we can read or write any files.
+Whenever we open a file to perform any operations on it, Python returns a file object. 
+To create a file object in Python use the built-in functions, such as open() and os. popen() .
+
+
+
+2)What is keywords to create and write file.?
+
+Write Only ('w') : Open the file for writing. For an existing file, the data is truncated and over-written. ...
+Write and Read ('w+') : Open the file for reading and writing. For an existing file, data is truncated and over-written. ...
+Append Only ('a') : Open the file for writing.New Delhi, national capital of India
+It is situated in the north-central part of the country
+ on the west bank of the Yamuna RiverNew Delhi, national capital of India
+New Delhi, national capital of India
+It is situated in the north-central part of the country
+ on the west bank of the Yamuna River1)What is File function in python? 
+
+Python file object provides methods and attributes to access and manipulate files.
+Using file objects, we can read or write any files.
+Whenever we open a file to perform any operations on it, Python returns a file object. 
+To create a file object in Python use the built-in functions, such as open() and os. popen() .
+
+
+
+2)What is keywords to create and write file.?
+
+Write Only ('w') : Open the file for writing. For an existing file, the data is truncated and over-written. ...
+Write and Read ('w+') : Open the file for reading and writing. For an existing file, data is truncated and over-written. ...
+Append Only ('a') : Open the file for writing.New Delhi, national capital of India
+It is situated in the north-central part of the country
+ on the west bank of the Yamuna RiverNew Delhi, national capital of India
+New Delhi, national capital of India
+It is situated in the north-central part of the country
+ on the west bank of the Yamuna River1)What is File function in python? 
+
+Python file object provides methods and attributes to access and manipulate files.
+Using file objects, we can read or write any files.
+Whenever we open a file to perform any operations on it, Python returns a file object. 
+To create a file object in Python use the built-in functions, such as open() and os. popen() .
+
+
+
+2)What is keywords to create and write file.?
+
+Write Only ('w') : Open the file for writing. For an existing file, the data is truncated and over-written. ...
+Write and Read ('w+') : Open the file for reading and writing. For an existing file, data is truncated and over-written. ...
+Append Only ('a') : Open the file for writing.New Delhi, national capital of India
+It is situated in the north-central part of the country
+ on the west bank of the Yamuna RiverNew Delhi, national capital of India
+New Delhi, national capital of India
+It is situated in the north-central part of the country
+ on the west bank of the Yamuna River1)What is File function in python? 
+
+Python file object provides methods and attributes to access and manipulate files.
+Using file objects, we can read or write any files.
+Whenever we open a file to perform any operations on it, Python returns a file object. 
+To create a file object in Python use the built-in functions, such as open() and os. popen() .
+
+
+
+2)What is keywords to create and write file.?
+
+Write Only ('w') : Open the file for writing. For an existing file, the data is truncated and over-written. ...
+Write and Read ('w+') : Open the file for reading and writing. For an existing file, data is truncated and over-written. ...
+Append Only ('a') : Open the file for writing.New Delhi, national capital of India
+It is situated in the north-central part of the country
+ on the west bank of the Yamuna RiverNew Delhi, national capital of India
+New Delhi, national capital of India
+It is situated in the north-central part of the country
+ on the west bank of the Yamuna River1)What is File function in python? 
+
+Python file object provides methods and attributes to access and manipulate files.
+Using file objects, we can read or write any files.
+Whenever we open a file to perform any operations on it, Python returns a file object. 
+To create a file object in Python use the built-in functions, such as open() and os. popen() .
+
+
+
+2)What is keywords to create and write file.?
+
+Write Only ('w') : Open the file for writing. For an existing file, the data is truncated and over-written. ...
+Write and Read ('w+') : Open the file for reading and writing. For an existing file, data is truncated and over-written. ...
+Append Only ('a') : Open the file for writing.New Delhi, national capital of India
+It is situated in the north-central part of the country
+ on the west bank of the Yamuna RiverNew Delhi, national capital of India
+New Delhi, national capital of India
+It is situated in the north-central part of the country
+ on the west bank of the Yamuna River1)What is File function in python? 
+
+Python file object provides methods and attributes to access and manipulate files.
+Using file objects, we can read or write any files.
+Whenever we open a file to perform any operations on it, Python returns a file object. 
+To create a file object in Python use the built-in functions, such as open() and os. popen() .
+
+
+
+2)What is keywords to create and write file.?
+
+Write Only ('w') : Open the file for writing. For an existing file, the data is truncated and over-written. ...
+Write and Read ('w+') : Open the file for reading and writing. For an existing file, data is truncated and over-written. ...
+Append Only ('a') : Open the file for writing.New Delhi, national capital of India
+It is situated in the north-central part of the country
+ on the west bank of the Yamuna RiverNew Delhi, national capital of India
+New Delhi, national capital of India
+It is situated in the north-central part of the country
+ on the west bank of the Yamuna River1)What is File function in python? 
+
+Python file object provides methods and attributes to access and manipulate files.
+Using file objects, we can read or write any files.
+Whenever we open a file to perform any operations on it, Python returns a file object. 
+To create a file object in Python use the built-in functions, such as open() and os. popen() .
+
+
+
+2)What is keywords to create and write file.?
+
+Write Only ('w') : Open the file for writing. For an existing file, the data is truncated and over-written. ...
+Write and Read ('w+') : Open the file for reading and writing. For an existing file, data is truncated and over-written. ...
+Append Only ('a') : Open the file for writing.New Delhi, national capital of India
+It is situated in the north-central part of the country
+ on the west bank of the Yamuna RiverNew Delhi, national capital of India
+New Delhi, national capital of India
+It is situated in the north-central part of the country
+ on the west bank of the Yamuna River1)What is File function in python? 
+
+Python file object provides methods and attributes to access and manipulate files.
+Using file objects, we can read or write any files.
+Whenever we open a file to perform any operations on it, Python returns a file object. 
+To create a file object in Python use the built-in functions, such as open() and os. popen() .
+
+
+
+2)What is keywords to create and write file.?
+
+Write Only ('w') : Open the file for writing. For an existing file, the data is truncated and over-written. ...
+Write and Read ('w+') : Open the file for reading and writing. For an existing file, data is truncated and over-written. ...
+Append Only ('a') : Open the file for writing.New Delhi, national capital of India
+It is situated in the north-central part of the country
+ on the west bank of the Yamuna RiverNew Delhi, national capital of India
+New Delhi, national capital of India
+It is situated in the north-central part of the country
+ on the west bank of the Yamuna River

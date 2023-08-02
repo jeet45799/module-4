@@ -1,0 +1,69 @@
+1)---How many except statements can a try-except block have?
+
+---------)-more than one.
+
+
+2)---Name Some built-in exception classes:
+
+  Exception	                        Description
+a)lookupError   --------------   Raised when errors raised cant be found
+b)MemoryError   --------------   Raised when a program runs out of memory
+c)NameError     --------------   Raised when a variable does not exist
+d)NotImplemented
+Error         --------------   Raised when an abstract method requires an inherited class to override the method
+
+
+3)When will the else part of try-except-else be executed?
+
+---)The else part is executed when no exception occurs.
+
+4)Can one block of except statements handle multiple exception?
+
+---)Yes, a single block of except statements in Python can handle multiple exceptions.
+
+5)When is the finally block executed?
+
+---)The finally block always executes when the try block exits. 
+This ensures that the finally block is executed even if an unexpected exception occurs.
+
+
+
+6)What happens when „1?== 1 is executed?
+Easy explanation - It simply evaluates to False and does not raise any exception.
+
+
+7)What are oops concepts?
+
+---)OOps in java is to improve code readability and reusability by defining a Java program efficiently. 
+The main principles of object-oriented programming are abstraction, encapsulation, inheritance, and polymorphism. 
+These concepts aim to implement real-world entities in programs.
+
+8)Is multiple inheritance supported in java?
+ 
+---)Java doesn't support multiple inheritance.
+
+
+9)How to Define a Class in Python? What Is Self?
+
+---)A class in Python can be defined using the class keyword.
+self represents the instance of the class.
+
+10)What is init? 
+
+---)The __init__ method is the Python equivalent of the C++ constructor in an object-oriented approach. 
+The __init__ function is called every time an object is created from a class. 
+The __init__ method lets the class initialize the object's attributes and serves no other purpose.
+It is only used within classes.
+
+11)What Is A Constructor In Python?
+
+---)A constructor is a unique function that gets called automatically when an object is created of a class.
+
+12)What is Instantiation in terms of OOP terminology?
+
+---)The creation of an instance of a class. 
+Method - A special kind of function that is defined in a class definition. 
+
+13)What is used to check whether an object o is an instance of class A?
+
+---) The `isinstance()` function can be used to check if an object is an instance of a particular class.

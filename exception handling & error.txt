@@ -1,0 +1,13 @@
+1)---Explain Exception handling?
+
+Exception handling is the process of responding to unwanted or unexpected events when a computer program runs. 
+Exception handling deals with these events to avoid the program or system crashing, 
+and without this process, exceptions would disrupt the normal operation of a program.
+
+
+2)---What is an Error in Python?
+
+Errors are problems that occur in the program due to an illegal operation performed by the user,
+or by the fault of a programmer, 
+which halts the normal flow of the program. 
+Errors are also termed bugs or faults. There are mainly two types of errors in python programming.
